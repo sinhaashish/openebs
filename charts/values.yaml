@@ -68,3 +68,6 @@ engines:
   replicated:
     mayastor:
       enabled: true
+
+backup-restore:
+  enabled: false
